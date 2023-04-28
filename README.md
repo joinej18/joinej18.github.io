@@ -1,1 +1,1 @@
-To-Do list application
+Bankist Website from Udemy Javascript Course
